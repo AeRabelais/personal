@@ -1,42 +1,20 @@
 # Ashia Lewis
 
-_Bienvenue! Your presence on this corner of the net probably means you have some questions about me. Feel free to find your answers below. 
+_Bienvenue! Your presence on this corner of the net probably means you have some questions about me. Feel free to find your answers below._
 
-[Personal Email](mailto:pantagruelspendulum@protonmail.com) | [University Email](mailto:atlewis5@crimson.ua.edu.com) | [Social](https://www.goodreads.com/user/show/25702327-ash) | [CV/Résumé](aerabelais.github.io/cv)
+[Personal Email](mailto:pantagruelspendulum@protonmail.com) | [University Email](mailto:atlewis5@crimson.ua.edu.com) | [Social](https://www.goodreads.com/user/show/25702327-ash) | [CV/Résumé](https://aerabelais.github.io/cv)
 
+## Ethics Framework
 
+## Interests
 
+### Research Interests
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Advocacy Interests
 
-### Markdown
+### Personal Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Creative Endeavours 
 
-```markdown
-Syntax highlighted code block
+## Contributions
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AeRabelais/personal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
