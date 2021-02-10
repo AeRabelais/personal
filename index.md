@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+# Ashia Lewis
 
-You can use the [editor on GitHub](https://github.com/AeRabelais/personal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Bienvenue! Your presence on this corner of the net probably means you have some questions about me. Feel free to find your answers below. 
+
+[Personal Email](mailto:pantagruelspendulum@protonmail.com) | [University Email](mailto:atlewis5@crimson.ua.edu.com) | [Social](https://www.goodreads.com/user/show/25702327-ash) | [CV/Résumé](aerabelais.github.io/cv)
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
