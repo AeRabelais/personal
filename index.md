@@ -53,12 +53,12 @@ What do I spend my time thinking about?
 
 ## Creative Endeavours 
 
-~Will be updated soon~
+**Will be updated soon**
 
 ## Contributions
 
-~Will be updated soon~
+**Will be updated soon**
 
-- [RosettaCode] (http://www.rosettacode.org/wiki/User:Ae_Rabelais)
-- [The Physics Hub] (https://github.com/ThePhysHub/ThePhysicsHub/)
+- [RosettaCode](http://www.rosettacode.org/wiki/User:Ae_Rabelais)
+- [The Physics Hub](https://github.com/ThePhysHub/ThePhysicsHub/)
 
